@@ -8,7 +8,7 @@ Se toma como entrada el fichero airbnb.csv y sobre él se piden que se realicen 
 Conceptos tratados en la práctica:
 
 - Carga de dataframes
-- Añadir nuevas columnas al dataframes
+- Añadir nuevas columnas al dataframe
 - Creación de nuevos datraframes
 - Limpieza de dataframes
 - Visualización de datos únicos
