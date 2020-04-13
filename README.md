@@ -16,7 +16,7 @@ Conceptos tratados en la práctica:
 - Gráficos Boxplots
 - Distribuciones
 - Test estadísticos
-- Histograma
+- Histogramas
 - Diagramas de densidad de distribución
 - Modelo lineal
 - Correlación
