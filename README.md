@@ -1,4 +1,4 @@
-# practica_Estadistica
+# Practica Módulo Estadistica
 Práctica del Módulo de Estadística del Bootcamp Big Data and Machine Learning
 
 Esta es la práctica del módulo de Estadística del Bootcamp. El objetivo de la práctica es utilizar el **lenguaje R** para tratar un Dataset y obtener información estádística sobre los datos
