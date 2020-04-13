@@ -15,7 +15,7 @@ Conceptos tratados en la práctica:
 - Limpieza de dataframes
 - Visualización de datos únicos
 - Filtrado de datos
-- Gráficos Boxplots
+- Gráficos boxplots
 - Distribuciones
 - Test estadísticos
 - Histogramas
