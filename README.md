@@ -1,4 +1,7 @@
-# Practica Módulo Estadística
+# Práctica: Módulo Estadística - Bootcamp KeepCoding - BIG DATA & MACHINE LEARNING
+
+# Estadística
+
 Práctica del Módulo de Estadística del Bootcamp Big Data and Machine Learning
 
 El objetivo de la práctica es utilizar el **lenguaje R** para tratar un Dataframe y obtener información estádística sobre los datos
