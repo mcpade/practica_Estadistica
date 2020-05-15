@@ -1,28 +1,29 @@
-# Práctica: Módulo Estadística - Bootcamp KeepCoding - BIG DATA & MACHINE LEARNING
+# Practice: Statistics Module  - Bootcamp KeepCoding - BIG DATA & MACHINE LEARNING
 
-# Estadística
+# Statistics
 
-Práctica del Módulo de Estadística del Bootcamp Big Data and Machine Learning
+Practice of the Statistics Module of the Bootcamp Big Data and Machine Learning
 
-El objetivo de la práctica es utilizar el **lenguaje R** para tratar un Dataframe y obtener información estádística sobre los datos
+The objective of the practice is to use the  **R language** to process a Dataframe and obtain statistical information about the data
 
-Se toma como entrada el fichero airbnb.csv y sobre él se piden que se realicen una serie de operaciones y se obtengan datos utilizando el **lenguaje R**. Para el desarrollo de esta práctica se utiliza **Anaconda - Jupyter Notebook (lenguaje R)**.
+The **airbnb.csv** file is taken as an input and  a series of operations are requested to be performed on it and obtain data using the  **lenguaje R**. 
+**Anaconda - Jupyter Notebook (R language)** is used for the development of this practice.
 
-El fichero **airbnb.csv** contiene información de pisos turísticos de la ciudad de Madrid.
+The **airbnb.csv** file contains information on tourist apartments in the city of Madrid.
 
-Conceptos tratados en la práctica:
+Concepts dealt with in practice:
 
-- Carga de dataframes
-- Añadir nuevas columnas al dataframe
-- Creación de nuevos datraframes
-- Limpieza de dataframes
-- Visualización de datos únicos
-- Filtrado de datos
-- Gráficos boxplots
-- Distribuciones
-- Test estadísticos
-- Histogramas
-- Diagramas de densidad de distribución
-- Modelo lineal
-- Correlación
+- Dataframe loading
+- Add new columns to the dataframe
+- Creation of new datraframes
+- Dataframe cleaning
+- Unique data visualization
+- Data filtering
+- Boxplots graphics
+- Distributions
+- Statistical tests
+- Histograms
+- Distribution Density Diagrams
+- Linear model
+- Correlation
 
